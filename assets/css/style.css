@@ -1,0 +1,17 @@
+body {
+    background-image: url(../images/nbatilelogo.png);
+    background-size: 200px;
+}
+
+#shotclock {
+    text-align: center;
+    color: red;
+}
+
+#maincard {
+    background: black;
+}
+
+#buttoncontainer {
+text-align: center;
+}
