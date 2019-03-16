@@ -1,3 +1,4 @@
+$( document ).ready()
 
 //   Start timer once the page loads
   window.onload = function(){
