@@ -24,27 +24,27 @@
     }
 
     // Array of questions that could be used to dynamically generate question in the DOM
-    var triviaQuestions = [{
-        question: "Who is the shortest player of all-time?",
-        answerList: ["Allen Iverson", "Tyrone 'Muggsy' Bogues", "Isaiah Thomas"],
-        answer: 1
-    },{
-        question: "What team drafted Kobe Bryant?",
-        answerList: ["Lakers", "Suns", "Hornets"],
-        answer: 2
-    },{
-        question: "What player has the highest career FT percentage?",
-        answerList: ["Steve Nash", "John Stockton", "Stephen Curry"],
-        answer: 0
-    },{
-        question: "Who has the most coaching wins?",
-        answerList: ["Greg Popovich", "Steve Kerr", "Don Nelson"],
-        answer: 2
-    },{
-        question: "What player scored the most points in one game?",
-        answerList: ["Kobe Bryant", "Wilt Chamberlain", "Michael Jordan"],
-        answer: 1
-    }];
+    // var triviaQuestions = [{
+    //     question: "Who is the shortest player of all-time?",
+    //     answerList: ["Allen Iverson", "Tyrone 'Muggsy' Bogues", "Isaiah Thomas"],
+    //     answer: 1
+    // },{
+    //     question: "What team drafted Kobe Bryant?",
+    //     answerList: ["Lakers", "Suns", "Hornets"],
+    //     answer: 2
+    // },{
+    //     question: "What player has the highest career FT percentage?",
+    //     answerList: ["Steve Nash", "John Stockton", "Stephen Curry"],
+    //     answer: 0
+    // },{
+    //     question: "Who has the most coaching wins?",
+    //     answerList: ["Greg Popovich", "Steve Kerr", "Don Nelson"],
+    //     answer: 2
+    // },{
+    //     question: "What player scored the most points in one game?",
+    //     answerList: ["Kobe Bryant", "Wilt Chamberlain", "Michael Jordan"],
+    //     answer: 1
+    // }];
 
     // create variables to contain the correct answers
 
